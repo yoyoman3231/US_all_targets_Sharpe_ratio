@@ -1,6 +1,6 @@
 /*美股市值前20大、美股市值前50大、道瓊30*/
 /*跑投資組合時,記得把單檔關掉*/
-/*這邊是用夏普值導引*/
+/*這邊是用夏普值導引1*/
 #include <iostream>
 #include <fstream>
 #include <sstream>
